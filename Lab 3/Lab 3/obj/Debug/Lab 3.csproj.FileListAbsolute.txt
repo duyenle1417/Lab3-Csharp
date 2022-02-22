@@ -1,0 +1,44 @@
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\bin\Debug\Lab 3.exe.config
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\bin\Debug\Lab 3.exe
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\bin\Debug\Lab 3.pdb
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab 3.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab_3.Form1.resources
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab 3.exe
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab 3.pdb
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab_3.Bai2.resources
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab_3.Bai1.resources
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab_3.Bai1_UDP_Client.resources
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab_3.Bai1_UDPServer.resources
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab_3.Bai3.resources
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab_3.Bai3_TcpServer.resources
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab_3.Bai3_TcpClient.resources
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab_3.Bai4.resources
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab_3.Bai4_Client1.resources
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab_3.Bai4_Server.resources
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab_3.Bai4_Client2.resources
+C:\Users\ASUS\OneDrive\Desktop\Lập Trình Mạng\Lab 3\Lab 3\obj\Debug\Lab_3.Bai4_Client3.resources
+E:\CODE\C#\Lab 3\Lab 3\bin\Debug\Lab 3.exe.config
+E:\CODE\C#\Lab 3\Lab 3\bin\Debug\Lab 3.exe
+E:\CODE\C#\Lab 3\Lab 3\bin\Debug\Lab 3.pdb
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab 3.csprojAssemblyReference.cache
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab_3.Bai1.resources
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab_3.Bai1_UDP_Client.resources
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab_3.Bai2.resources
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab_3.Bai1_UDPServer.resources
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab_3.Bai3.resources
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab_3.Bai3_TcpClient.resources
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab_3.Bai3_TcpServer.resources
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab_3.Bai4.resources
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab_3.Bai4_Client1.resources
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab_3.Bai4_Client2.resources
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab_3.Bai4_Client3.resources
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab_3.Bai4_Server.resources
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab_3.Form1.resources
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab_3.Properties.Resources.resources
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.GenerateResource.cache
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.CoreCompileInputs.cache
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab 3.exe
+E:\CODE\C#\Lab 3\Lab 3\obj\Debug\Lab 3.pdb
